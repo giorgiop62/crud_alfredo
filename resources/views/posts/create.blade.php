@@ -6,12 +6,11 @@
                 @csrf
                 <div class="form-group">
                     <label for="data">Data</label>
-                    <input type="data" class="form-control" id="data" name="data" required>
+                    <input type="date" class="form-control" id="data" name="data" required>
                 </div>
                 <div class="form-group">
                     <label for="luogo">Luogo</label>
                     <input type="string" class="form-control" id="luogo" name="luogo" required>
-
                 </div>
                 <br>
                 <button class="btn btn-primary" type="submit" class="btn btn-primary">Crea Post</button>
