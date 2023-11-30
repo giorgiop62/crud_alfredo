@@ -28,6 +28,8 @@
                 <th scope="col">id</th>
                 <th scope="col">Date</th>
                 <th scope="col">Luogo</th>
+
+
                 <th scope="col">Azioni</th>
             </tr>
         </thead>
